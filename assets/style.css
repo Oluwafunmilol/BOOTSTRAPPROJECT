@@ -1,0 +1,86 @@
+.btn {
+border: 1px solid white;
+border-radius: 0;
+color: white;
+}
+
+.btn:hover {
+    border: white;
+    background-color: white;
+    color: black;
+  }
+
+  .card-title {
+      margin-top: 150px;
+      font-size: 40px;
+  }
+
+  .card-text {
+      font-size: 18px;
+  }
+
+  .second-image {
+      margin-top: 20px;
+      border: 1px solid white;
+  }
+
+  .third-image {
+    margin-top: 20px;
+    border: 1px solid white;
+}
+
+  .third-image-logo {
+      padding-top: 120px;
+    padding-bottom: 60px;
+  }
+
+  .fourth-image {
+    margin-top: 20px;
+    border: 1px solid white;
+  }
+
+  .fifth-image {
+    margin-top: 20px;
+    border: 1px solid white;
+  }
+
+  .fifth-image-h5 {
+    margin-top: 0;
+    font-size: 25px;
+    padding-top: 5px;
+   }
+
+   .sixth-image {
+    margin-top: 20px;
+    border: 1px solid white;
+  }
+
+  .six-img{
+      height: auto;
+  }
+
+  .sixth-image-h5 {
+    margin-top: 0;
+    padding-top: 10px;
+   }
+
+   .six {
+    padding-top: 0px;
+    margin-top: 0;
+   }
+
+   .end-div-color{
+       color: black;
+    }
+   
+    /* @media screen and (max-width: 1024px) {
+        .responsive-nav-wrap .mobile {
+            display: inline-block;
+        }
+    } */
+
+    /* <picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture> */
