@@ -7,7 +7,7 @@ A fashion website.
 Click the buttons and navigation bar to access all pages. Forms and all field must be inputed. 
 
 # Project screenshoot
-![This is an alt text](/assets/images/Captureportfolio.PNG "This is a sample logo")
+![This is an alt text](/assets/images/img.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/BOOTSTRAPPROJECT.git)
@@ -15,7 +15,7 @@ Click the buttons and navigation bar to access all pages. Forms and all field mu
 ### Built with
 HTML
 CSS
-Java script
+BOOTSTRAP
 
 # Live Demo
 This is alive demo(https://raw.githack.com/Oluwafunmilol/BOOTSTRAPPROJECT/main/index.html)

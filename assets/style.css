@@ -1,3 +1,46 @@
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: white;
+} 
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: ;
+  color: black;
+}
+
+.link {
+ font-size: 14px;
+ padding-top: 8px;
+ padding-bottom: 8px;
+  }
+
 .btn {
 border: 1px solid white;
 border-radius: 0;
@@ -5,82 +48,117 @@ color: white;
 }
 
 .btn:hover {
-    border: white;
-    background-color: white;
-    color: black;
+  border: white;
+  background-color: white;
+  color: black;
   }
 
-  .card-title {
-      margin-top: 150px;
-      font-size: 40px;
+.card-title {
+  margin-top: 150px;
+  font-size: 40px;
   }
 
-  .card-text {
-      font-size: 18px;
-  }
-
-  .second-image {
-      margin-top: 20px;
-      border: 1px solid white;
-  }
-
-  .third-image {
-    margin-top: 20px;
-    border: 1px solid white;
+.card-text {
+  font-size: 18px;
 }
 
-  .third-image-logo {
-      padding-top: 120px;
-    padding-bottom: 60px;
-  }
+.second-image {
+  margin-top: 20px;
+  border: 1px solid white;
+}
 
-  .fourth-image {
-    margin-top: 20px;
-    border: 1px solid white;
-  }
+.third-image {
+margin-top: 20px;
+border: 1px solid white;
+}
 
-  .fifth-image {
-    margin-top: 20px;
-    border: 1px solid white;
-  }
+.third-image-logo {
+  padding-top: 120px;
+padding-bottom: 60px;
+}
 
-  .fifth-image-h5 {
-    margin-top: 0;
-    font-size: 25px;
-    padding-top: 5px;
-   }
+.fourth-image {
+margin-top: 20px;
+border: 1px solid white;
+}
 
-   .sixth-image {
-    margin-top: 20px;
-    border: 1px solid white;
-  }
+.fifth-image {
+margin-top: 20px;
+border: 1px solid white;
+}
 
-  .six-img{
-      height: auto;
-  }
+.fifth-image-h5 {
+margin-top: 0;
+font-size: 25px;
+padding-top: 5px;
+}
 
-  .sixth-image-h5 {
-    margin-top: 0;
-    padding-top: 10px;
-   }
+.border-bottom{
+border-bottom: 1px solid white;
+}
 
-   .six {
-    padding-top: 0px;
-    margin-top: 0;
-   }
+.sixth-image {
+margin-top: 20px;
+border: 1px solid white;
+}
 
-   .end-div-color{
-       color: black;
-    }
-   
+.six-img{
+  height: auto;
+}
+
+.sixth-image-h5 {
+margin-top: 0;
+padding-top: 10px;
+}
+
+.six {
+padding-top: 0px;
+margin-top: 0;
+}
+
+.end-div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.end-div-color{
+    color: black;
+}
+
+  
+
+    /* .grid-container {
+        display: grid;
+        grid-column-gap: 1em;
+        grid-row-gap: 1em;
+        grid-template-columns: auto auto auto auto;
+        /* background-color: #2196F3; */
+        /* padding: 20px;
+      }
+      
+      .grid-item {
+        border: 0;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+        color: black;
+      } */ 
+
     /* @media screen and (max-width: 1024px) {
         .responsive-nav-wrap .mobile {
             display: inline-block;
         }
     } */
 
-    /* <picture>
-  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
-  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
-  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
-</picture> */
+    /* <!-- <li class="nav-item">
+    <a href="#"><i class="fas fa-search"></i></a>
+  </li> --> */
+  /* <!-- <li class="nav-item">
+  <a class="nav-link"><i class="fab fa-facebook-f"></i></a>
+</li> -->
+    */
+
+
+
